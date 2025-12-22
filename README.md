@@ -1,16 +1,20 @@
-## Hi there 👋
+# Philipp Doppelhammer
 
-<!--
-**philipp-doppelhammer/philipp-doppelhammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CFO & Co-Founder at Tradevest  
+Digital Assets · Banking Infrastructure · Regulation (MiCAR, DORA, KWG)
 
-Here are some ideas to get you started:
+## About me
+I build regulated financial market infrastructure at the intersection of
+traditional banking and digital assets.  
+My focus is on custody, trading, tokenisation and scalable compliance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of expertise
+- Digital Asset Custody & Trading
+- Banking Regulation & Compliance
+- Tokenisation & Capital Markets Infrastructure
+- FinTech & RegTech Platforms
+
+## Links
+- Website: https://philipp-doppelhammer.de
+- LinkedIn: https://linkedin.com/in/philippdoppelhammer
+- Company: https://tradevest.ai
