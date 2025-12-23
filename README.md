@@ -15,6 +15,5 @@ My focus is on custody, trading, tokenisation and scalable compliance.
 - FinTech & RegTech Platforms
 
 ## Links
-- Website: https://philipp-doppelhammer.de
 - LinkedIn: https://linkedin.com/in/philippdoppelhammer
 - Company: https://tradevest.ai
