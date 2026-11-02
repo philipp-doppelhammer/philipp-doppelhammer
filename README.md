@@ -1,7 +1,7 @@
 # Philipp Doppelhammer
 
-CFO & Co-Founder at Tradevest  
-Digital Assets · Banking Infrastructure · Regulation (MiCAR, DORA, KWG)
+Director at FinPlanet · Co-Founder Tradevest
+Digital Assets · Banking Infrastructure · Regulation (MiCAR, DORA, KWG) · Building software for regulated finance, digital assets & AI
 
 ## About me
 I build regulated financial market infrastructure at the intersection of
