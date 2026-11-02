@@ -16,4 +16,4 @@ My focus is on custody, trading, tokenisation and scalable compliance.
 
 ## Links
 - LinkedIn: https://linkedin.com/in/philippdoppelhammer
-- Company: https://tradevest.ai
+- Company: https://www.finplanet.eu
